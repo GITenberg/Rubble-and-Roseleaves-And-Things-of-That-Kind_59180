@@ -1,5 +1,8 @@
 _repo: Rubble-and-Roseleaves-And-Things-of-That-Kind_59180
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59180-h/images/cover.jpg
 creator:
   author:
     agent_name: Boreham, Frank
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26266
     wikipedia: http://en.wikipedia.org/wiki/Frank_W._Boreham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59180#Rubble-and-Roseleaves-And-Things-of-That-Kind
 gutenberg_issued: '2019-04-01'
 gutenberg_type: Text
 identifiers:
